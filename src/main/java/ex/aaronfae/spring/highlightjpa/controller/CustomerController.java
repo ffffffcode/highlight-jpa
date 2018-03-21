@@ -1,4 +1,4 @@
-package ex.aaronfae.spring.highlightjpa.Controller;
+package ex.aaronfae.spring.highlightjpa.controller;
 
 import ex.aaronfae.spring.highlightjpa.dao.CustomerRepository;
 import ex.aaronfae.spring.highlightjpa.entity.Customer;
